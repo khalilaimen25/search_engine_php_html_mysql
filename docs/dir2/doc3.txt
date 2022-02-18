@@ -1,0 +1,7 @@
+ Des problèmes bien réels
+
+Les NFT sont clivants. Un petit groupe de personnes croit en la technologie sous-jacente (des jetons qui certifient la propriété d'un bien numérique), mais beaucoup plus nombreux sont ceux qui la considèrent comme une escroquerie. Tout comme le second groupe a du mal à percevoir la valeur des NFT, le premier groupe peut parfois être sur la défensive quant aux imperfections de la technologie qui sont bien réelles.
+
+Tout d'abord, il y a l'inaccessibilité. Il y a une raison pour laquelle les développeurs ont tendance à bien réussir dans le trading de crypto et de NFT : la mise en place de portefeuilles de blockchain et d'autres outils numériques nécessaires est complexe. Même le simple fait d'acheter et de vendre peut être périlleux. Envoyez de l'argent à la mauvaise adresse de portefeuille par accident, et il disparaît à jamais.
+
+Et puis il y a les frais. Imaginez que vous souhaitiez vous lancer dans les NFT et que vous soyez prêt à investir 1 000 dollars. Si vous achetez un nouveau NFT lors d'une vente publique, vous dépenserez généralement entre 120 et 400 dollars. Ce n'est pas énorme. Mais il faut prendre en compte les frais de transaction. En effet, la plupart des NFT sont construits sur la blockchain ethereum, qui est souvent frappée de congestion. Plus il y a de personnes qui utilisent l'ethereum, que ce soit pour échanger des altcoins ou acheter des NFT, plus les frais sont élevés. Dans le meilleur des cas, vous dépenserez environ 100 dollars par transaction, mais le double ou le triple de ce montant est assez courant.

@@ -1,0 +1,60 @@
+=======================================================================================================================
+file : docs/dir1/doc1.txt
+title : trouver des références fiables outre les sommes souvent cons...
+description : trouver des références fiables outre les sommes souvent conséquentes qui sont mises en jeu, des désagréments peuvent survenir lorsque des travaux sont mal réalis
+number of words : 146 (100%)
+number of key words : 64 (43.84%)
+=======================================================================================================================
+file : docs/dir1/doc8.htm
+title : des tornades destructrices s'abattent sur les etats-unis: au moins 79 morts
+description : accueilfrance-monde ‹›×× previous  next des débris d'un bâtiment enveloppé autour d'un arbre après le passage d'une tornade, à mayfield dans le kentucky, le 1
+number of words : 1464 (100%)
+number of key words : 533 (36.41%)
+=======================================================================================================================
+file : docs/dir2/doc2.txt
+title : jouer avec les miroirs et la transparence enfin, les miroirs s...
+description : jouer avec les miroirs et la transparence enfin, les miroirs sont des éléments décoratifs intéressants non seulement pour agrandir visuellement les espaces, mais a
+number of words : 93 (100%)
+number of key words : 39 (41.94%)
+=======================================================================================================================
+file : docs/dir2/doc3.txt
+title : des problèmes bien réels les nft sont clivants. un petit gr...
+description : des problèmes bien réels les nft sont clivants. un petit groupe de personnes croit en la technologie sous-jacente (des jetons qui certifient la propriété d'un bie
+number of words : 278 (100%)
+number of key words : 107 (38.49%)
+=======================================================================================================================
+file : docs/dir2/doc9.htm
+title : inondations: une lente décrue s'amorce dans le sud-ouest, repassé en vigilance orange
+description : accueilfrance-monde lecturezenune lente décrue des gaves, ces torrents des pyrénées, et rivières, sortis de leur lit depuis la veille, commençait à s'amorcer samed
+number of words : 857 (100%)
+number of key words : 335 (39.09%)
+=======================================================================================================================
+file : docs/dir3/doc10.htm
+title : accueilrégionle salon, c’est aussi l’occasion de trouve...
+description : une trentaine d’exposants animeront ce dimanche encore le marché gastronomique et artisanal du comité des fêtes qui avait dû être annulé l’an dernier en raison du covid-19.
+number of words : 848 (100%)
+number of key words : 349 (41.16%)
+=======================================================================================================================
+file : docs/doc4.txt
+title : et si l'utilité de créer des robots biologiques peut sembler en...
+description : et si l'utilité de créer des robots biologiques peut sembler encore confuse pour le grand public, les scientifiques de l'université du vermont y voient la possibilité
+number of words : 90 (100%)
+number of key words : 41 (45.56%)
+=======================================================================================================================
+file : docs/doc5.txt
+title : espaces d’utopie en ces temps de dérèglement climatique, l...
+description : espaces d’utopie en ces temps de dérèglement climatique, les potagers urbains ne manquent pas d’atouts : ils améliorent le climat, permettent le recyclage des
+number of words : 220 (100%)
+number of key words : 102 (46.36%)
+=======================================================================================================================
+file : docs/doc6.html
+title : l’endive, toujours bienvenue sur nos tables
+description : chicon pour les ch’tis, l’endive est née de la chicorée d’origine méditerranéenne et d’une technique mise au point par les belges. une belle rencontre…
+number of words : 465 (100%)
+number of key words : 185 (39.78%)
+=======================================================================================================================
+file : docs/doc7.html
+title : gp d’abou dhabi de f1: avantage au poleman verstappen pour la finale
+description : encore une surprise ! on attendait lewis hamilton (mercedes), 2e des qualifications, c’est max verstappen (red bull), son rival à égalité en tête du championnat du monde de f1, qui sera en pole du dernier gp de la saison à abou dhabi dimanche.
+number of words : 1388 (100%)
+number of key words : 542 (39.05%)

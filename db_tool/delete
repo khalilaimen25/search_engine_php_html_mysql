@@ -1,0 +1,8 @@
+
+DELETE from words_sources;
+DELETE from words;
+delete from sources;
+
+ALTER TABLE words_sources AUTO_INCREMENT = 1;
+ALTER TABLE words AUTO_INCREMENT = 1;
+alter table sources AUTO_INCREMENT = 1;
